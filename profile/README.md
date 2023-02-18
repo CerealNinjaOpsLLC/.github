@@ -10,3 +10,5 @@ CI/CD: Jenkins, CircleCI, Gitlab CI, GitHub Actions, Gitlab CI/CD, AWS CodePipel
 *DevOps Tooling:* Ansible, Packer, Bash, Python, Nim
 *Infrastructure as Code:* Terraform, Terragrunt, Packer, CloudFormation
 *Monitoring:* Prometheus, Grafana, Datadog, CloudWatch, CloudTrail
+
+Feel free to send an email or leave a note on the discussions page
