@@ -1,6 +1,6 @@
 ## **Hi there :)**
 
-*We are NinjaOps. Our goal is to utilize DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage your production and development pipelines in the cloud. We offer hourly consulting and project services, long-term IAC support contracts and private or open-source Terraform module development & maintenance. We are a remote service however our main hours are EST	UTC−05:00. Based on needs we can discuss service hours.*
+*We are NinjaOps. Our goal is to utilize DevOps principals and Infrastructure As Code (IAC) to bootstrap, maintain, and manage your production and development pipelines in the cloud. We offer hourly consulting and project services, long-term IAC support contracts and private or open-source Terraform module development & maintenance. Our main hours are EST	UTC−05:00 however based on needs we can discuss service hours.*
 
 ## Technologies:
 
